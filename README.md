@@ -9,3 +9,4 @@ The main topics are:
 * **Generative adversarial networks** (conditional GANs)
 * **Explainable AI** (PDP, ICE, Shapley values & LIME)
 * **Reinforcement learning** (Q tables & deep Q networks)
+
